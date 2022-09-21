@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+#root {
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+}
