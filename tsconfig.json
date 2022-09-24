@@ -3,12 +3,12 @@
     "outDir": "dist",
     "paths": {
       "@/*": ["./src/*"],
-      "@utils/*": ["./src/utils/*"],
-      "@types/*": ["./src/types/*"],
-      "@components/*": ["./src/components/*"],
-      "@pages/*": ["./src/pages/*"],
-      "@store/*": ["./src/store/*"],
-      "@constants/*": ["./src/constants/*"]
+      "@utils": ["./src/utils/*"],
+      "@components": ["./src/components/*"],
+      "@pages": ["./src/pages/*"],
+      "@store": ["./src/store/*"],
+      "@types": ["./src/types/*"],
+      "@constants": ["./src/constants/*"]
     },
     "jsx": "react",
     "allowJs": true,
